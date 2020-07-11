@@ -3,7 +3,7 @@ Build a Python Reader for pdf books
 
 ### Write simple and a small set of python codes to build your own pdf book reader
 
-1. Read a Sentence
+1. Read a sentence
 2. Read a page from a pdf book
 3. Read multiple pages from a pdf book
 
